@@ -1,2 +1,0 @@
-[ 2025-10-03 21:07:25,248] 17 root - INFO - Entered the try block
-[ 2025-10-03 21:07:25,248] 22 root - ERROR - Error occured in python script [C:\Users\varun\OneDrive\Desktop\MACHINE LEARNING\NetworkSecurity\networksecurity\exception\exception.py] line number [18] error message [division by zero] 

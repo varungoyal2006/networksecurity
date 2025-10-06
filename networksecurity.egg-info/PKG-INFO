@@ -1,4 +1,4 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: networksecurity
 Version: 0.0.0.1
 Author: Varun Goyal
@@ -6,5 +6,9 @@ Author-email: varungoyal2006@outlook.com
 Requires-Dist: python-dotenv
 Requires-Dist: pandas
 Requires-Dist: numpy
-Requires-Dist: pymongo
+Requires-Dist: pymongo>=4.15.2
 Requires-Dist: certifi
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
