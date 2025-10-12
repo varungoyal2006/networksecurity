@@ -1,0 +1,24 @@
+[ 2025-10-12 14:17:04,235] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2025-10-12 14:17:06,279] 17 root - INFO - Initiate the Data Ingestion
+[ 2025-10-12 14:17:10,027] 64 root - INFO - Performed train test split on the dataframe
+[ 2025-10-12 14:17:10,027] 66 root - INFO - Exited split_data_as_train_test_method of Data_Ingestion class
+[ 2025-10-12 14:17:10,027] 74 root - INFO - Exporting train and test file path.
+[ 2025-10-12 14:17:10,072] 20 root - INFO - Data Initiation Completed
+[ 2025-10-12 14:17:10,099] 23 root - INFO - Initiating the Data Validation
+[ 2025-10-12 14:17:10,171] 30 root - INFO - Required number of columns 31
+[ 2025-10-12 14:17:10,171] 31 root - INFO - Data Frame has columns 31
+[ 2025-10-12 14:17:10,171] 30 root - INFO - Required number of columns 31
+[ 2025-10-12 14:17:10,171] 31 root - INFO - Data Frame has columns 31
+[ 2025-10-12 14:17:10,306] 25 root - INFO - Data Validation Completed
+[ 2025-10-12 14:17:10,306] 29 root - INFO - Initiating the Data Transformation
+[ 2025-10-12 14:17:10,306] 50 root - INFO - Entered the initiate_data_transformation method of Data_Transformation class
+[ 2025-10-12 14:17:10,329] 53 root - INFO - Read the train and test data as dataframe
+[ 2025-10-12 14:17:10,332] 38 root - INFO - Enteredt the get_data_transformer_object method of Data_Transformation class
+[ 2025-10-12 14:17:10,332] 41 root - INFO - Initialized the KNNImputer with the following parameters : {'missing_values': nan, 'n_neighbors': 3, 'weights': 'uniform'}
+[ 2025-10-12 14:17:10,332] 43 root - INFO - Created the preprocessing object
+[ 2025-10-12 14:17:10,332] 64 root - INFO - Obtained the preprocessor object
+[ 2025-10-12 14:17:10,342] 70 root - INFO - Transformed the training and testing input features
+[ 2025-10-12 14:17:10,347] 42 root - INFO - Entered the save object method of MainUtils class
+[ 2025-10-12 14:17:10,350] 46 root - INFO - Exited the save_object method from mainUtils class
+[ 2025-10-12 14:17:10,351] 80 root - INFO - Saved the transformed training and testing array
+[ 2025-10-12 14:17:10,352] 32 root - INFO - Data Transformation Completed

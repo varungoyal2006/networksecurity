@@ -1,0 +1,93 @@
+Abnormal_URL:
+  drift_status: false
+  p_value: 0.9977779733310679
+DNSRecord:
+  drift_status: false
+  p_value: 0.9999663445866434
+Domain_registeration_length:
+  drift_status: false
+  p_value: 0.5316613793963171
+Favicon:
+  drift_status: false
+  p_value: 0.9991163966793711
+Google_Index:
+  drift_status: false
+  p_value: 0.9999999695167531
+HTTPS_token:
+  drift_status: false
+  p_value: 0.9999966076838405
+Iframe:
+  drift_status: false
+  p_value: 1.0
+Links_in_tags:
+  drift_status: false
+  p_value: 0.7680594767709571
+Links_pointing_to_page:
+  drift_status: false
+  p_value: 0.6561283895317495
+Page_Rank:
+  drift_status: false
+  p_value: 1.0
+Prefix_Suffix:
+  drift_status: false
+  p_value: 0.7448868829726499
+Redirect:
+  drift_status: false
+  p_value: 0.9999941129797338
+Request_URL:
+  drift_status: false
+  p_value: 1.0
+Result:
+  drift_status: false
+  p_value: 0.999933027979382
+RightClick:
+  drift_status: false
+  p_value: 0.999999999999104
+SFH:
+  drift_status: false
+  p_value: 1.0
+SSLfinal_State:
+  drift_status: false
+  p_value: 1.0
+Shortining_Service:
+  drift_status: false
+  p_value: 0.7358777827602118
+Statistical_report:
+  drift_status: false
+  p_value: 0.9960014870743
+Submitting_to_email:
+  drift_status: false
+  p_value: 0.6444159112309035
+URL_Length:
+  drift_status: false
+  p_value: 1.0
+URL_of_Anchor:
+  drift_status: false
+  p_value: 0.998769156009182
+age_of_domain:
+  drift_status: false
+  p_value: 1.0
+double_slash_redirecting:
+  drift_status: false
+  p_value: 0.97445046981822
+having_At_Symbol:
+  drift_status: false
+  p_value: 0.9999994225295485
+having_IP_Address:
+  drift_status: false
+  p_value: 0.9999999958558219
+having_Sub_Domain:
+  drift_status: false
+  p_value: 0.9990102134180887
+on_mouseover:
+  drift_status: false
+  p_value: 1.0
+popUpWidnow:
+  drift_status: false
+  p_value: 0.9909366369734626
+port:
+  drift_status: false
+  p_value: 0.9304876065369445
+web_traffic:
+  drift_status: false
+  p_value: 0.9542637128910921
